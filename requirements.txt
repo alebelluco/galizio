@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+numpy
+matplotlib
+requests
+plotly-express
+xlrd
+openpyxl
+datetime
+
+
+
+
